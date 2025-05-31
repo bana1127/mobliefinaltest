@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="my_color">
+        <item>빨강</item>
+        <item>파랑</item>
+        <item>초록</item>
+    </string-array>
+    <string-array name="my_color_values">
+        <item>#ff0000</item>
+        <item>#0000ff</item>
+        <item>#00ff00</item>
+    </string-array>
+    <string-array name="my_scale">
+        <item>Center</item>
+        <item>Fit_End</item>
+        <item>Center_Crop</item>
+    </string-array>
+    <string-array name="my_scale_values">
+        <item>Center</item>
+        <item>Fit_End</item>
+        <item>Center_Crop</item>
+    </string-array>
+</resources>

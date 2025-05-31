@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://www.tukorea.ac.kr/sites/tukorea/images/common/logo_c.png"
+        android:id="@+id/edittx"
+        android:maxLines="1"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="웹에서 이미지 가져오기"
+        android:id="@+id/importbt"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/image"
+        android:layout_weight="1"/>
+</LinearLayout>

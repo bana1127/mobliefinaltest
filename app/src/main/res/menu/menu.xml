@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/wjsghk" android:title="전화번호부"
+        android:icon="@android:drawable/ic_menu_call"/>
+    <item android:id="@+id/stopwatch" android:title="스톱워치"
+        android:icon="@android:drawable/ic_menu_recent_history"/>
+    <item android:id="@+id/dlfrl" android:title="일기장"
+        android:icon="@android:drawable/ic_menu_today"/>
+    <item android:id="@+id/qbvpdlwj" android:title="뷰페이저"
+        android:icon="@android:drawable/ic_menu_view"/>
+</menu>
